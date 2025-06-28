@@ -78,9 +78,8 @@
 
 ### 🎯 Current Projects
 - **VoiceSense**: Real-time AI voice assistant for healthcare in Moroccan Darija
-- **ReceptionistAgent**: AI agents for medical knowledge delivery
-- **Custom Transformer Models**: From-scratch implementations of GPT-2 and DETR
-- **Amazighini**: [Your current project - please update with details]
+- **Custom Transformer Models**: From-scratch implementations of GPT-2 and DETR (for learning purposes)
+- **AWALE**: Developping STT model for people with unconventional speech in darija
 
 ---
 <p align="center">
