@@ -9,8 +9,7 @@
 
 ### 🔬 Research & Current Work
 - 🧠 **Currently:** AI R&D Intern at DICE, UM6P - developing **VoiceSense** for healthcare accessibility
-- 📄 **Published:** Paper accepted at AICSET 2025 on  Multi-Agent Architecture and voice in-
-terfaces for low-resource linguistic settings
+- 📄 **Published:** Paper accepted at AICSET 2025 on  Multi-Agent Architecture and voice interfaces for low-resource linguistic settings
 - 🗣️ **Research Focus:** Multilingual NLP, Speech Technologies, AI for Social Good
 - 🏆 **Achievement:** 1st place winner at Orange Summer Challenge 2024
 
