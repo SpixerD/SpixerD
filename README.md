@@ -40,7 +40,7 @@
 
 ### 📬 Let's Connect
 - 💬 **Ask me about:** ASR, Darija speech processing, low-resource NLP, automation, AI system design
-- 📧 **Reach me:** learningbarrouch@gmail.com
+- 📧 **Reach me:** mohammed.barrouch@outlook.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -68,7 +68,7 @@ height="30" width="40" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Microsoft_Office_2019_logo.svg" width="40"/>
 </a>
 <a href="https://developer.chrome.com/docs/extensions/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/google_chrome/google_chrome-icon.svg" width="40"/>
+<img src="[https://www.vectorlogo.zone/logos/google_chrome/google_chrome-icon.svg](https://raw.githubusercontent.com/gist/Senipah/cbfa43cf472fd03fbb322e00ae4fe7c7/raw/c5ec1261f6e9a1cfe4aa8b07dae94265973690fb/roundel-VBA-grey.svg)" width="40"/>
 </a>
 </p>
 
