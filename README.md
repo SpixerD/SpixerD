@@ -65,10 +65,10 @@ height="30" width="40" />
 <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
 <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/></a>
 <a href="https://learn.microsoft.com/en-us/office/vba/api/overview/" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Microsoft_Office_2019_logo.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/gist/Senipah/cbfa43cf472fd03fbb322e00ae4fe7c7/raw/c5ec1261f6e9a1cfe4aa8b07dae94265973690fb/roundel-VBA-grey.svg" width="40"/>
 </a>
 <a href="https://developer.chrome.com/docs/extensions/" target="_blank">
-<img src="[https://www.vectorlogo.zone/logos/google_chrome/google_chrome-icon.svg](https://raw.githubusercontent.com/gist/Senipah/cbfa43cf472fd03fbb322e00ae4fe7c7/raw/c5ec1261f6e9a1cfe4aa8b07dae94265973690fb/roundel-VBA-grey.svg)" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/google_chrome/google_chrome-icon.svg" width="40"/>
 </a>
 </p>
 
