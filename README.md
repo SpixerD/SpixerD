@@ -20,14 +20,28 @@
 - 📄 **Research:** Paper accepted at **AICSET 2025** on multi-agent architectures and voice interfaces in low-resource settings
 - 🏆 **Recognition:** **AWALE** — 1st place winner at the **Orange Summer Challenge 2024**
 
-### 🧪 Selected & Completed Projects
-- **[AWALE.ma](https://awale.ma)** — AI-assisted communication system for people with atypical speech patterns  
-  *(Darija ASR adapted to unconventional speech, strong end-to-end demos; validated by winning 1st place at the Orange Summer Challenge 2024; completed as a functional prototype — currently inactive)*
+## 🧪 Selected Projects
 
-- **VoiceSense** — End-to-end voice-based AI system for healthcare interaction in Moroccan Darija  
-  *(ASR, translation, response generation, TTS, real-time streaming; completed research & engineering prototype)*
+### **AWALE** — AI-Assisted Communication for Atypical Speech  
+🌐 **[AWALE.ma](https://awale.ma)**  
+- Darija ASR adapted to unconventional and impaired speech  
+- Strong end-to-end demos validated in real-world settings  
+- 🥇 Winner of **Orange Summer Challenge 2024**  
+- Functional prototype (currently inactive / on hiatus)
 
-- **Transformer Implementations** — From-scratch GPT-2 and DETR implementations for deep architectural understanding
+---
+
+### **VoiceSense** — Voice-Based AI for Healthcare (Darija)
+- End-to-end voice pipeline: **ASR → Translation → LLM → TTS**
+- Real-time streaming interaction
+- Research-grade engineering prototype targeting illiterate users
+- Focused on feasibility, evaluation, and system design
+
+---
+
+### **Deep Learning Internals**
+- From-scratch implementations of **GPT-2** and **DETR**
+- Built for architectural understanding, not copy-paste usage
 
 ### ⚙️ Automation & Productivity Engineering
 - 🚀 **Automation Developer:** Designing tools that reduce manual work and speed up company workflows
