@@ -21,7 +21,7 @@
 - 🏆 **Recognition:** **AWALE** — 1st place winner at the **Orange Summer Challenge 2024**
 
 ### 🧪 Selected & Completed Projects
-- **AWALE ([AWALE.ma])(https://awale.ma)** — AI-assisted communication system for people with atypical speech patterns  
+- **[AWALE.ma](https://awale.ma)** — AI-assisted communication system for people with atypical speech patterns  
   *(Darija ASR adapted to unconventional speech, strong end-to-end demos; validated by winning 1st place at the Orange Summer Challenge 2024; completed as a functional prototype — currently inactive)*
 
 - **VoiceSense** — End-to-end voice-based AI system for healthcare interaction in Moroccan Darija  
