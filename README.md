@@ -1,3 +1,11 @@
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Inter&size=26&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=AI+Engineer+%7C+ASR+%26+Low-Resource+Speech;Moroccan+Darija+Speech+Technologies;Building+Practical+%26+Impactful+AI+Systems"
+    alt="Typing SVG"
+  />
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Mohammed BARROUCH</h1>
 <h3 align="center">AI Engineer | ASR & Low-Resource Speech Specialist | Automation Developer</h3>
 
