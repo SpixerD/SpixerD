@@ -5,7 +5,6 @@
   <em>Building and shipping AI systems, with a strong focus on speech technologies, low-resource languages, and workflow automation</em>
 </p>
 
-<img align="right" alt="AI Research" width="350" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHFnOG94cm9obnNramp6MjNqdXpuMG5ranc3dGQ5eXA2M2N4YnhkdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2Eh9l5e0QH41sg0bbL/giphy.gif">
 
 ### 🔬 Research & Technical Focus
 - 🗣️ **ASR Expert:** Automatic Speech Recognition for Moroccan Darija and low-resource languages
